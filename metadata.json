@@ -1,0 +1,5 @@
+{
+  "name": "Student Portfolio - DPS Dubai",
+  "description": "A modern, Apple-style personal portfolio for a student developer, featuring real-time GitHub stats and a Firebase-powered admin CMS.",
+  "requestFramePermissions": []
+}
